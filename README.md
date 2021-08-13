@@ -1,2 +1,5 @@
 # hello-world
-First time
+First time!
+
+This is all a dream. 
+With hard work anything is possible!
